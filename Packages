@@ -6,12 +6,29 @@ Depends: com.enigmadevteam.romanpass
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: ./debs/com.enigmadevteam.romanpass_1.0_iphoneos-arm.deb
-Size: 3265708
+Size: 14290
 Description: Roman numbers in Passcode
 Name: RomanPass
 Author: I K Y
 MD5sum: 98f191c85055fc26d1a1154666a2a703
 SHA1: 5e4c424e8152c319287b30644e82bdb4aed0ac9b
 SHA256: 2ad9a2195dbf7f9c6d355c83893a5da291d573827cc211df9e0f2df3efb518d3
+Depiction: https://iamiky2.github.io/
+
+Package: com.enigmadevteam.localiapstore
+Section: Tweaks
+Maintainer: I K Y
+Pre-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Depends: com.enigmadevteam.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4-2
+Filename: ./debs/com.enigmadevteam.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 71026
+Description: Compatible with ARMv8 (64 Bit). Enable in settings. 
+Name: LocalIAPStore
+Author: I K Y
+MD5sum: 39a7e79f2c09d950e081e99b3ea4da84
+SHA1: 14b94e599691eae3fbc689594a4dea1702f7cb6e
+SHA256: e4b72497f6f3efe2eff6b15c5c552b6ee5f9a2d5cc76123ebb33173bb82fe58d
 Depiction: https://iamiky2.github.io/
 
