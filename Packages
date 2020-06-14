@@ -1,15 +1,17 @@
-Package: com.enigma-dev-team.localiapstore
-Name: LocalIAPStore
-Version: 1.4-2
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Package: com.enigmadevteam.romanpass
+Section: Tweaks
+Maintainer: I K Y
+Pre-Depends: firmware (>= 8.0), mobilesubstrate
+Depends: com.enigmadevteam.romanpass
 Architecture: iphoneos-arm
-Author: anondev 
-Depiction: 
-Filename: /debs/com.enigma-dev-team.localiapstore_1.4-2_iphoneos-arm.deb
-Size: 71040
-SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
-SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
-MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
-Description: Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore
-Maintainer: iLeoLion <repo@hackyouriphone.org>
+Version: 1.0
+Filename: ./debs/com.enigmadevteam.romanpass_1.0_iphoneos-arm.deb
+Size: 3265708
+Description: Roman numbers in Passcode
+Name: RomanPass
+Author: I K Y
+MD5sum: 98f191c85055fc26d1a1154666a2a703
+SHA1: 5e4c424e8152c319287b30644e82bdb4aed0ac9b
+SHA256: 2ad9a2195dbf7f9c6d355c83893a5da291d573827cc211df9e0f2df3efb518d3
+Depiction: https://iamiky2.github.io/
+
