@@ -14,6 +14,7 @@ MD5sum: 98f191c85055fc26d1a1154666a2a703
 SHA1: 5e4c424e8152c319287b30644e82bdb4aed0ac9b
 SHA256: 2ad9a2195dbf7f9c6d355c83893a5da291d573827cc211df9e0f2df3efb518d3
 Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
 
 Package: com.enigmadevteam.localiapstore
 Section: Tweaks
@@ -31,6 +32,7 @@ MD5sum: 39a7e79f2c09d950e081e99b3ea4da84
 SHA1: 14b94e599691eae3fbc689594a4dea1702f7cb6e
 SHA256: e4b72497f6f3efe2eff6b15c5c552b6ee5f9a2d5cc76123ebb33173bb82fe58d
 Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
 
 Package: com.enigmadevteam.prysm
 Section: Tweaks
@@ -48,6 +50,7 @@ MD5sum: 868c034eb43a82fa93060ad77d6467c3
 SHA1: 868c034eb43a82fa93060ad77d6467c3
 SHA256: d32523a74002f63fb3c0d8a62457b3fd1b914b44727fc51ff3d607bf0eae6d28
 Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
 
 Package: com.enigmadevteam.realcc
 Section: Tweaks
@@ -65,3 +68,22 @@ MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
 SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
 Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
+
+Package: com.enigmadevteam.kalm
+Section: Tweaks
+Maintainer: I K Y
+Pre-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Depends: com.enigmadevteam.kalm
+Architecture: iphoneos-arm
+Version: 1.4.3
+Filename: ./debs/com.enigmadevteam.kalm_1.4.3_iphoneos-arm.deb
+Size: 14290
+Description:  A beautiful first sight.
+Name: Kalm
+Author: ubik
+MD5sum: f19051575ee209f79abd4ca4d9df6b2b
+SHA1: f785fd35222cef9feed506f7b06aeefa16aff402
+SHA256: c9170c75ff9670608686d1c1d8eaf67d6b9809fa43774b45fb2f614235921914
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
