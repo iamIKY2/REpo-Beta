@@ -122,3 +122,21 @@ SHA1: 28b7d63f437fd52e87e99839b73cc1349ec970f0
 SHA256: 032c633f656a98e704a42ad7baae0f099e302a937f127bcd19d24ec3902285d3
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
+
+Package: com.enigmadevteam.cydia
+Section: Packaging
+Maintainer: I K Y
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Depends: com.enigmadevteam.cydia
+Architecture: iphoneos-arm
+Version: 1.1.36
+Filename: ./debs/com.enigmadevteam.cydia_1.1.36_iphoneos-arm.deb
+Size: 1260452
+Description: Install Cydia
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+MD5sum: 4c83e4719bb9b0c1a52dc845889bab15
+SHA1: d7c534eb030eb0702852f29f16019931064fac1e
+SHA256: 3a0ba743b1c6a1022d16c3940361016e6f06c91125f4dddfa831a29dfcdac72f
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
