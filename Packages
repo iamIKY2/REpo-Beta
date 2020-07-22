@@ -105,6 +105,23 @@ SHA256: 9a0abcbbf5ce77f23bebc12e4987d2d0d051fb752745a2919a9417fde9d5c7ba
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
 
+Package: com.enigmadevteam.echoes
+Section: Themes
+Maintainer: I K Y
+Depends: com.enigmadevteam.echoes
+Architecture: iphoneos-arm
+Version: 1.5.8
+Filename: ./debs/com.enigmadevteam.echoes_1.5.8_iphoneos-arm.deb
+Size: 25237856
+Description: Distant echoes
+Name: Echoes
+Author: Timeloop
+MD5sum: a39266809d3824bb3b7578c10e84e75e
+SHA1: 2bf4862eb6c5caf3e1bdb5cc8140edf08eeaca3c
+SHA256: 7f2478f51148d599d525b4b9e5183af14fd2e7520a4389ad057819f03da91d3a
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
+
 Package: com.enigmadevteam.neofetch
 Section: Tweaks
 Maintainer: I K Y
@@ -123,20 +140,22 @@ SHA256: 032c633f656a98e704a42ad7baae0f099e302a937f127bcd19d24ec3902285d3
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
 
-Package: com.enigmadevteam.cydia
-Section: Packaging
+Package: com.enigmadevteam.scorpion
+Section: Tweaks
 Maintainer: I K Y
-Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
-Depends: com.enigmadevteam.cydia
+Pre-Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc | com.hackyouriphone.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis 
+Depends: com.enigmadevteam.scorpion
 Architecture: iphoneos-arm
-Version: 1.1.36
-Filename: ./debs/com.enigmadevteam.cydia_1.1.36_iphoneos-arm.deb
-Size: 1260452
-Description: Install Cydia
-Name: Cydia Installer
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-MD5sum: 4c83e4719bb9b0c1a52dc845889bab15
-SHA1: d7c534eb030eb0702852f29f16019931064fac1e
-SHA256: 3a0ba743b1c6a1022d16c3940361016e6f06c91125f4dddfa831a29dfcdac72f
+Version: 1.4.2
+Filename: ./debs/com.enigmadevteam.scorpion_1.4.2_iphoneos-arm.deb
+Size: 834196
+Description: Intrusive call interface? Say no more.
+Name: Scorpion
+Author: Esquilli
+MD5sum: 5a59a2975803a6571cb7e8ccaa5d48f6
+SHA1: b9dfaa6653e8fbd701ae8d34d616debe6a3a1b65
+SHA256: b561010987cbb60e07f7f810ee10d465d3fdf3f026138bbbc3bbc47c959b5fb2
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
+
+
