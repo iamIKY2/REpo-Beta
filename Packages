@@ -52,6 +52,24 @@ SHA256: d32523a74002f63fb3c0d8a62457b3fd1b914b44727fc51ff3d607bf0eae6d28
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
 
+Package: com.enigmadevteam.prysm
+Section: Tweaks
+Maintainer: I K Y
+Pre-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Depends: com.enigmadevteam.prysm
+Architecture: iphoneos-arm
+Version: 1.8
+Filename: ./debs/com.enigmadevteam.prysm_1.8_iphoneos-arm.deb.deb
+Size: 798486
+Description: Your control center, reimagined.
+Name: Prysm
+Author: LaughingQuoll
+MD5sum: d7e30e87b310ee85d14654c3f90328c4
+SHA1: 517727c359e56cdffa1635898b298751cad48d38
+SHA256: c7359565e28c82aa458d738474b0728694fa9ca2a1e1ef4f749eb39cd8390073
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
+
 Package: com.enigmadevteam.realcc
 Section: Tweaks
 Maintainer: I K Y
@@ -158,4 +176,74 @@ SHA256: b561010987cbb60e07f7f810ee10d465d3fdf3f026138bbbc3bbc47c959b5fb2
 Depiction: https://iamiky2.github.io/
 SileoDepiction: https://iamiky2.github.io
 
+Package: com.enigmadevteam.altstore
+Section: Apps
+Maintainer: I K Y
+Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
+Depends: com.enigmadevteam.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a7
+Filename: ./debs/com.enigmadevteam.altstore_1.4a7_iphoneos-arm.deb
+Size: 3241796
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore
+Author: Riley Testut
+MD5sum: cb7691f776eb8a1ed5ffa812e803c915
+SHA1: e2e7f6d9a19062920a04c85cb75d673287668194
+SHA256: 00e355c812189ea9e5c1ea64cf07e9d2c775077e7a083136d6eba3241e702db8
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
 
+Package: com.enigmadevteam.altdaemon
+Section: Tweak Support
+Maintainer: I K Y
+Pre-Depends: firmware (>=12.2)
+Depends: com.enigmadevteam.altdaemon
+Architecture: iphoneos-arm
+Version: 0.2
+Filename: ./debs/com.enigmadevteam.altdaemon_0.2_iphoneos-arm.deb
+Size: 873486
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut
+MD5sum: 28f65059813b5b9b4ece77b3fd71b871
+SHA1: c26870f9a4578be94702511285e49fb67c51084d
+SHA256: 40f5db13277de2236b22e00feab47e02e29c24475f9b9681bdf1e49eff57d97d
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
+
+Package: com.enigmadevteam.nougat
+Section: Tweak 
+Maintainer: I K Y
+Pre-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch 
+Depends: com.enigmadevteam.nougat
+Architecture: iphoneos-arm
+Version: 1.1.2
+Filename: ./debs/com.enigmadevteam.nougat_1.1.2_iphoneos-arm.deb
+Size: 1065292
+Description: Android NC for iOS
+Name: Nougat
+Author: Shade Zepheri 
+MD5sum: 501287fa5f96e0419cc4eea67df52f32
+SHA1: ad454b16be9cf8b4439c910e451dcddfeff2bf02
+SHA256: 1c7c071b7566bc896289ef9c37d0c7b440119d2d4bc4c1b0e32107d629a08e4f
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
+
+Package: com.enigmadevteam.modernsettings
+Section: Tweak 
+Maintainer: I K Y
+Pre-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), ws.hbang.alderis , com.muirey03.libimagepicker 
+Depends: com.enigmadevteam.modernsettings
+Architecture: iphoneos-arm
+Version: 1.1
+Filename: ./debs/com.enigmadevteam.modernsettings_1.1_iphoneos-arm.deb
+Size: 1143184
+Description: Bring widgets and canvas to your settings.
+Name: ModernSettings
+Author: Dylan West 
+MD5sum: 4430b4c657b86737f5aef615fc7ab1ca
+SHA1: 9a2543801855bed930665f39d257d47873e14d70
+SHA256: d7de99ad8fb88d58a5a804c5a8682db33d6c39c8d59d03838e59efc76ae23ac4
+Depiction: https://iamiky2.github.io/
+SileoDepiction: https://iamiky2.github.io
